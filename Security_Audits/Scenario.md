@@ -104,3 +104,16 @@ Compliance checklist
 - The compliance regulations and standards that Botium Toys needs to adhere to are selected (i.e., related to conducting business in the E.U., accepting online payments, user permission policies)
 
 Please refer to [Tafel_Compliance_Checklist](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Security_Audits/Tafel%20_Compliance_Checklist.pdf).
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+## Step 5 (Communicate to Stakeholders)
+
+Be sure to address the following elements in your completed activity:
+- A high-level summary of the audit scope is provided (4-6 sentences or bullet points)
+- A high-level summary of the audit goals is provided (4-6 sentences or bullet points)
+- Critical findings are listed and explained
+- Other findings are listed and explained
+- The summary/recommendations clearly and concisely synthesize the most important information from the audit scope, goals, critical and other findings (5-10 sentences)
+
+Please refer to [Tafel_Stakeholder_memorandum](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Security_Audits/Tafel_Stakeholder_memorandum.pdf).
