@@ -65,6 +65,8 @@ _Additional comments_
 
 The likelihood of a lost asset or fines from governing bodies is high because Botium Toys does not have all of the necessary controls in place and is not adhering to required regulations and standards related to keeping customer data private.
 
+Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/Security_Audits/Supporting%20Documents)
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## Step 2 (Analyzing the audit goals, scope, and risk assessment):
@@ -94,7 +96,7 @@ Controls assessment
 - Appropriate administrative, technical, and physical controls are selected (marked with an X)
 - The priority level for each control selected is noted, based on the need for immediate or future implementation
 
-Please refer to [Tafel_Controls_Assessment](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Security_Audits/Tafel_Controls_Assessment.pdf).
+Please refer to [Tafel Controls Assessment](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Security_Audits/Tafel_Controls_Assessment.pdf).
   
 -----------------------------------------------------------------------------------------------------------------------------------
 
@@ -103,7 +105,7 @@ Please refer to [Tafel_Controls_Assessment](https://github.com/ericktafel1/Cyber
 Compliance checklist
 - The compliance regulations and standards that Botium Toys needs to adhere to are selected (i.e., related to conducting business in the E.U., accepting online payments, user permission policies)
 
-Please refer to [Tafel_Compliance_Checklist](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Security_Audits/Tafel%20_Compliance_Checklist.pdf).
+Please refer to [Tafel Compliance Checklist](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Security_Audits/Tafel%20_Compliance_Checklist.pdf).
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
@@ -116,4 +118,4 @@ Be sure to address the following elements in your completed activity:
 - Other findings are listed and explained
 - The summary/recommendations clearly and concisely synthesize the most important information from the audit scope, goals, critical and other findings (5-10 sentences)
 
-Please refer to [Tafel_Stakeholder_memorandum](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Security_Audits/Tafel_Stakeholder_memorandum.pdf).
+Please refer to [Tafel Stakeholder memorandum](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Security_Audits/Tafel_Stakeholder_memorandum.pdf).
