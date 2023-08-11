@@ -272,15 +272,15 @@ Examine the field values by clicking on the field under SELECTED FIELDS. You sho
 
 - host: The host field specifies the name of the network host from which the event originated. In this search there are five hosts:
 
- - ```mailsv``` - Buttercup Games' mail server. Examine events generated from this host.
+  - ```mailsv``` - Buttercup Games' mail server. Examine events generated from this host.
 
- - ```www1``` - This is one of Buttercup Games' web applications.
+  - ```www1``` - This is one of Buttercup Games' web applications.
 
- - ```www2``` - This is one of Buttercup Games' web applications.
+  - ```www2``` - This is one of Buttercup Games' web applications.
 
- - ```www3``` - This is one of Buttercup Games' web applications.
+  - ```www3``` - This is one of Buttercup Games' web applications.
 
- - ```vendor_sales``` - Information about Buttercup Games' retail sales.
+  - ```vendor_sales``` - Information about Buttercup Games' retail sales.
 
 - source: The source field indicates the file name from which the event originates. You should identify eight sources. Notice ```/mailsv/secure.log```, which is a log file that contains information related to authentication and authorization attempts on the mail server.
 
@@ -341,7 +341,7 @@ Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-# Entry 8 Scenario
+# Entry 9 Scenario
 
 Review the following scenario. Then complete the step-by-step instructions.
 
