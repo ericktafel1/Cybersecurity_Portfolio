@@ -153,16 +153,21 @@ Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecur
 ## Step 2: Answer the questions about the final report
 
 1. What type of security incident was the organization affected by?
+   
    _Data theft_
 
-2. Which section of the report includes an explanation of the root cause of the incident?
+3. Which section of the report includes an explanation of the root cause of the incident?
+   
    _Investigation_
 
-3. What did the attacker use to exploit the e-commerce web application vulnerability?
+5. What did the attacker use to exploit the e-commerce web application vulnerability?
+   
    _Forced browsing_
 
-4. What recommendations did the organization implement to prevent future recurrences? Select two answers.
+7. What recommendations did the organization implement to prevent future recurrences? Select two answers.
+   
    _Implemented access control mechanisms_
+   
    _Implemented routine vulnerability scans_
 
 Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
