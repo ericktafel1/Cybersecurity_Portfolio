@@ -10,10 +10,10 @@ The manager of the IT department has decided that an internal IT audit needs to 
 Your task is to review the IT manager’s scope, goals, and risk assessment. Then, perform an internal audit to complete a controls assessment and compliance checklist. 
 
 
-## Solution
-# Step 1 (Listing the audit goals, scope, and risk assessment):
+# Solution
+## Step 1 (Listing the audit goals, scope, and risk assessment):
 
-# Scope:
+Scope:
 Botium Toys internal IT audit will assess the following:
 - Current user permissions set in the following systems: accounting, end point detection, firewalls, intrusion detection system, security information and event management (SIEM) tool.
 - Current implemented controls in the following systems: accounting, end point detection, firewalls, intrusion detection system, Security Information and Event Management (SIEM) tool.
@@ -21,7 +21,7 @@ Botium Toys internal IT audit will assess the following:
 - Ensure current user permissions, controls, procedures, and protocols in place align with necessary compliance requirements.
 - Ensure current technology is accounted for. Both hardware and system access.
 
-# Goals:
+Goals:
 The goals for Botium Toys’ internal IT audit are:
 - To adhere to the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF)
 - Establish a better process for their systems to ensure they are compliant
@@ -30,8 +30,8 @@ The goals for Botium Toys’ internal IT audit are:
 - Establish their policies and procedures, which includes their playbooks
 - Ensure they are meeting compliance requirements
 
-# Risk assessment
-## Current assets
+Risk assessment
+_Current assets_
 Assets managed by the IT Department include:
 - On-premises equipment for in-office business needs
 - Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.
@@ -44,16 +44,16 @@ Assets managed by the IT Department include:
 - Badge readers
 - Legacy system maintenance: end-of-life systems that require human monitoring
 
-# Risk description
+_Risk description_
 Currently, there is inadequate management of assets. Additionally, Botium Toys does not have the proper controls in place and may not be compliant with U.S. and international regulations and standards.
 
-# Control best practices
+_Control best practices_
 The first of the five functions of the NIST CSF is Identify. Botium Toys will need to dedicate resources to managing assets. Additionally, they will need to determine the impact of the loss of existing assets, including systems, on business continuity.
 
-# Risk score
+_Risk score_
 On a scale of 1 to 10, the risk score is 8, which is fairly high. This is due to a lack of controls and adherence to necessary compliance regulations and standards.
 
-# Additional comments
+_Additional comments_
 The likelihood of a lost asset or fines from governing bodies is high because Botium Toys does not have all of the necessary controls in place and is not adhering to required regulations and standards related to keeping customer data private.
 
 --------------------------------------------------------------------------------------------------------------------------------
