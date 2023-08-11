@@ -93,6 +93,8 @@ Controls assessment
 - All listed assets are accounted for in the controls selected
 - Appropriate administrative, technical, and physical controls are selected (marked with an X)
 - The priority level for each control selected is noted, based on the need for immediate or future implementation
+
+Please refer to [Tafel_Controls_Assessment](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Security_Audits/Tafel%20_Compliance_Checklist.pdf).
   
 -----------------------------------------------------------------------------------------------------------------------------------
 
@@ -100,3 +102,5 @@ Controls assessment
 
 Compliance checklist
 - The compliance regulations and standards that Botium Toys needs to adhere to are selected (i.e., related to conducting business in the E.U., accepting online payments, user permission policies)
+
+Please refer to [Tafel_Compliance_Checklist](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Security_Audits/Tafel%20_Compliance_Checklist.pdf).
