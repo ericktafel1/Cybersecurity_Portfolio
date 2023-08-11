@@ -1,4 +1,4 @@
-# Scenario
+# Entry 1 Scenario
 
 Review the following scenario. Then complete the step-by-step instructions.
 
@@ -43,4 +43,38 @@ Use the incident handler's journal to document your first journal entry about th
 
 In the Additional notes row, record any thoughts or questions you have about the given scenario.
 
-Please refer to [Tafel Incident handler's journal]()
+Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+# Entry 2, 3, and 4 were labs. Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+# Entry 5 Scenario
+
+Review the scenario. Then complete the step-by-step instructions.
+
+You are a level-one security operations center (SOC) analyst at a financial services company. Previously, you received a phishing alert about a suspicious file being downloaded on an employee's computer. After investigating the email attachment file's hash, the attachment has already been verified malicious. Now that you have this information, you must follow your organization's process to complete your investigation and resolve the alert.
+
+Your organization's security policies and procedures describe how to respond to specific alerts, including what to do when you receive a phishing alert. 
+
+In the playbook, there is a flowchart and written instructions to help you complete your investigation and resolve the alert. At the end of your investigation, you will update the alert ticket with your findings about the incident.
+
+## Step 1: Access the template
+
+Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/Incident_Handler_Journal/Supporting_Documents)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## Step 2: Review the playbook and flowchart
+
+Before you begin investigating the alert, take a moment to review the playbook and flowchart because you'll be using them throughout the investigation.
+
+The Phishing Playbook instructions provide detailed, written instructions about each step represented in the flowchart.
+
+The Phishing Flowchart provides a high-level overview and visual representation of the sequence of steps and substeps you'll take to respond to a phishing alert.
+
+Note: The steps in theis playbook are not a definitive guide to responding to a phishing incident. Organizations have their own sets of policies, standards, and procedures that determine the expected response actions to incidents.
+
+--------------------------------------------------------------------------------------------------------------------------------
