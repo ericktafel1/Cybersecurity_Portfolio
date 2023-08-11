@@ -94,7 +94,7 @@ Controls assessment
 - Appropriate administrative, technical, and physical controls are selected (marked with an X)
 - The priority level for each control selected is noted, based on the need for immediate or future implementation
 
-Please refer to [Tafel_Controls_Assessment](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Security_Audits/Tafel%20_Compliance_Checklist.pdf).
+Please refer to [Tafel_Controls_Assessment](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Security_Audits/Tafel_Controls_Assessment.pdf).
   
 -----------------------------------------------------------------------------------------------------------------------------------
 
