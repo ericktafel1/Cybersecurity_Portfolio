@@ -127,3 +127,43 @@ Now that you've examined the email details, complete the final step of the playb
 
 Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
 
+--------------------------------------------------------------------------------------------------------------------------------
+
+# Entry 6 Scenario
+
+Review the following scenario. Then complete the step-by-step instructions.
+
+You recently joined the security team as a level-one security operation center (SOC) analyst at a mid-sized retail company. Along with its physical store locations, your company also conducts operations in e-commerce, which account for 80% of its sales.
+
+You are spending your first week of training becoming familiar with the company's security processes and procedures. Recently, the company experienced a major security incident involving a data breach of over one million users. Because this was a recent and major security incident, your team is working to prevent incidents like this from happening again. This breach happened before you began working at the company. You have been asked to review the final report.
+
+To gain an understanding of the incident's life cycle, your goals for your review are as follows:
+
+- Goal 1: Identify exactly what happened.
+- Goal 2: Identify when it happened. 
+- Goal 3: Identify the response actions that the company took.
+- Goal 4: Identify future recommendations.
+
+## Step 1: Access the supporting materials
+
+Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/Incident_Handler_Journal/Supporting_Documents)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## Step 2: Answer the questions about the final report
+
+1. What type of security incident was the organization affected by?
+   _Data theft_
+
+2. Which section of the report includes an explanation of the root cause of the incident?
+   _Investigation_
+
+3. What did the attacker use to exploit the e-commerce web application vulnerability?
+   _Forced browsing_
+
+4. What recommendations did the organization implement to prevent future recurrences? Select two answers.
+   _Implemented access control mechanisms_
+   _Implemented routine vulnerability scans_
+
+Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
+
