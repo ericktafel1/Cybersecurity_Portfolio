@@ -11,9 +11,11 @@ Your task is to review the IT manager’s scope, goals, and risk assessment. The
 
 
 # Solution
+
 ## Step 1 (Listing the audit goals, scope, and risk assessment):
 
 Scope:
+
 Botium Toys internal IT audit will assess the following:
 - Current user permissions set in the following systems: accounting, end point detection, firewalls, intrusion detection system, security information and event management (SIEM) tool.
 - Current implemented controls in the following systems: accounting, end point detection, firewalls, intrusion detection system, Security Information and Event Management (SIEM) tool.
@@ -22,6 +24,7 @@ Botium Toys internal IT audit will assess the following:
 - Ensure current technology is accounted for. Both hardware and system access.
 
 Goals:
+
 The goals for Botium Toys’ internal IT audit are:
 - To adhere to the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF)
 - Establish a better process for their systems to ensure they are compliant
@@ -31,7 +34,9 @@ The goals for Botium Toys’ internal IT audit are:
 - Ensure they are meeting compliance requirements
 
 Risk assessment
+
 _Current assets_
+
 Assets managed by the IT Department include:
 - On-premises equipment for in-office business needs
 - Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.
@@ -45,52 +50,53 @@ Assets managed by the IT Department include:
 - Legacy system maintenance: end-of-life systems that require human monitoring
 
 _Risk description_
+
 Currently, there is inadequate management of assets. Additionally, Botium Toys does not have the proper controls in place and may not be compliant with U.S. and international regulations and standards.
 
 _Control best practices_
+
 The first of the five functions of the NIST CSF is Identify. Botium Toys will need to dedicate resources to managing assets. Additionally, they will need to determine the impact of the loss of existing assets, including systems, on business continuity.
 
 _Risk score_
+
 On a scale of 1 to 10, the risk score is 8, which is fairly high. This is due to a lack of controls and adherence to necessary compliance regulations and standards.
 
 _Additional comments_
+
 The likelihood of a lost asset or fines from governing bodies is high because Botium Toys does not have all of the necessary controls in place and is not adhering to required regulations and standards related to keeping customer data private.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-Step 2 (Analyzing the audit goals, scope, and risk assessment):
+## Step 2 (Analyzing the audit goals, scope, and risk assessment):
 
 What are the biggest risks to the organization?
-Data breach and theft.
+
+_Data breach and theft._
 
 Which controls are most essential to implement immediately versus in the future?
-SOC1 and SOC2
+
+_SOC1 and SOC2_
 
 Which compliance regulations does Botium Toys need to adhere to, to ensure the company keeps customer and vendor data safe, avoids fines, etc.?
-GDPR
-PCI-DSS
+
+_GDPR_
+
+_PCI-DSS_
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Step 3 (Conducting the audit: Controls assessment)
+## Step 3 (Conducting the audit: Controls assessment)
 
-- All listed assets are accounted for in the controls selected
-
-    Appropriate administrative, technical, and physical controls are selected (marked with an X)
-
-    The priority level for each control selected is noted, based on the need for immediate or future implementation
-
-
-  Be sure to address the following elements in your completed activity:
+Be sure to address the following elements in your completed activity:
 
 Controls assessment
-
 - All listed assets are accounted for in the controls selected
 - Appropriate administrative, technical, and physical controls are selected (marked with an X)
 - The priority level for each control selected is noted, based on the need for immediate or future implementation
+  
+-----------------------------------------------------------------------------------------------------------------------------------
+
+## Step 4 (Conducting the audit: Compliance checklist)
 
 Compliance checklist
-
 - The compliance regulations and standards that Botium Toys needs to adhere to are selected (i.e., related to conducting business in the E.U., accepting online payments, user permission policies)
-- The need for each regulation and standard selected is explained
-
