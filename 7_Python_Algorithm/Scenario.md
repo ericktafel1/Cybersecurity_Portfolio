@@ -12,7 +12,7 @@ Note: This scenario involves developing the same algorithm that is developed in 
 
 To use the template for this course item, click the link and select Use Template. (In this step, you will just open the template. More instructions for how to use the template will be included in later steps.)
 
-Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/Incident_Handler_Journal/Supporting_Documents)
+Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/7_Python_Algorithm/Supporting_Documents)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ In the Project description section, give a general overview of the scenario and 
 In the Summary section, provide a short summary of the algorithm by highlighting its main components. Write four to six sentences.
 
 
-Please refer the [Tafel Algorithm for file updates in Python](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Python_Algorithm/Tafel_Algorithm_for_file_updates_in_Python.pdf) 
+Please refer the [Tafel Algorithm for file updates in Python](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/7_Python_Algorithm/Tafel_Algorithm_for_file_updates_in_Python.pdf) 
 
 
 
