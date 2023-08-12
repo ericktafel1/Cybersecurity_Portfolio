@@ -47,7 +47,9 @@ Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-# Entry 2, 3, and 4 are labs. Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
+# Entry 2, 3, and 4 are labs.
+
+Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/9_Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
