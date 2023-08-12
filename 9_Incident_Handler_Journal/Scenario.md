@@ -12,7 +12,7 @@ Once the attackers gained access, they deployed their ransomware, which encrypte
 
 ## Step 1: Access the template
 
-Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/Incident_Handler_Journal/Supporting_Documents)
+Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/9_Incident_Handler_Journal/Supporting_Documents)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ Use the incident handler's journal to document your first journal entry about th
 
 In the Additional notes row, record any thoughts or questions you have about the given scenario.
 
-Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
+Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/9_Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -63,7 +63,7 @@ In the playbook, there is a flowchart and written instructions to help you compl
 
 ## Step 1: Access the template
 
-Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/Incident_Handler_Journal/Supporting_Documents)
+Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/9_Incident_Handler_Journal/Supporting_Documents)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -125,7 +125,7 @@ Now that you've examined the email details, complete the final step of the playb
 - Under the Ticket status column of the alert ticket template, update the status of the ticket to either Closed or Escalated.
 - Under the Ticket comments column of the alert ticket template, use the details you've found to explain the steps taken and why you chose to escalate or close the ticket. Include 2-3 reasons as to why you believe this alert should be escalated or closed.
 
-Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
+Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/9_Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -146,7 +146,7 @@ To gain an understanding of the incident's life cycle, your goals for your revie
 
 ## Step 1: Access the supporting materials
 
-Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/Incident_Handler_Journal/Supporting_Documents)
+Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/9_Incident_Handler_Journal/Supporting_Documents)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -170,7 +170,7 @@ Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecur
    
    _Implemented routine vulnerability scans_
 
-Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
+Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/9_Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -188,7 +188,7 @@ You are a security analyst working at the e-commerce store Buttercup Games. You'
 
 The following supporting materials will help you complete this activity. The data contains log and event information from Buttercup Games' mail servers and web accounts. This includes information like access and authentication logs, email logs, and more.
 
-Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/Incident_Handler_Journal/Supporting_Documents)
+Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/9_Incident_Handler_Journal/Supporting_Documents)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -337,7 +337,7 @@ Your search from the previous task should have retrieved search results for over
 
    _More than 100_
 
-Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
+Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/9_Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -463,4 +463,4 @@ Investigate the IP address found under the RESOLVED IPS insight card to identify
 
    _```signin.office365x24.com```_
 
-Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
+Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/9_Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
