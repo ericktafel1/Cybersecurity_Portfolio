@@ -176,7 +176,9 @@ Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-# Entry 7 is a lab. Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
+# Entry 7 is a lab.
+
+Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/9_Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
