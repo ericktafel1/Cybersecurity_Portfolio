@@ -10,7 +10,7 @@ Note: This scenario involves the same queries as the ones the Filter with AND, O
 
 ## Step 1: Access the template
 
-Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/Filtering_SQL_queries/Supporting_Documents)
+Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/6_Filtering_SQL_queries/Supporting_Documents)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -84,6 +84,6 @@ In the Project description section, give a general overview of the scenario and 
 
 In the Summary section, provide a short summary of the previous tasks and connect them to the scenario. Write approximately two to four sentences.
 
-Please refer to [Tafel Apply filters to SQL queries](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Filtering_SQL_queries/Tafel_Apply_filters_to_SQL_queries.pdf)
+Please refer to [Tafel Apply filters to SQL queries](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/6_Filtering_SQL_queries/Tafel_Apply_filters_to_SQL_queries.pdf)
 
 
