@@ -345,9 +345,122 @@ Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel
 
 Review the following scenario. Then complete the step-by-step instructions.
 
-You are a security analyst at a financial services company. You receive an alert that an employee received a phishing email in their inbox. You review the alert and identify a suspicious domain name contained in the email's body: signin.office365x24.com. You need to determine whether any other employees have received phishing emails containing this domain and whether they have visited the domain. You will use Chronicle to investigate this domain.
+You are a security analyst at a financial services company. You receive an alert that an employee received a phishing email in their inbox. You review the alert and identify a suspicious domain name contained in the email's body: ```signin.office365x24.com```. You need to determine whether any other employees have received phishing emails containing this domain and whether they have visited the domain. You will use Chronicle to investigate this domain.
 
+## Step 1: Launch Chronicle
 
+Click the link to launch Chronicle.
 
+On the Chronicle home page, you’ll find the current date and time, a search bar, and details about the total number of log entries. There are already a significant number of log events ingested into the Chronicle instance.
 
+--------------------------------------------------------------------------------------------------------------------------------
 
+## Step 2: Perform a domain search
+
+To begin, complete these steps to perform a domain search for the domain contained in the phishing email. Then, search for events using information like hostnames, domains, IP addresses, URLs, email addresses, usernames, and file hashes. 
+
+1. In the search bar, type ```signin.office365x24.com``` and click Search. Under DOMAINS, ```signin.office365x24.com``` will be listed. This tells you that the domain exists in the ingested data. 
+
+2. Click ```signin.office365x24.com``` to complete the search.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## Step 3: Evaluate the search results
+
+After performing a domain search, you'll be in the domain view. Evaluate the search results and observe the following:
+
+1. VT CONTEXT: This section provides the VirusTotal information available for the domain. 
+
+2. WHOIS: This section provides a summary of information about the domain using WHOIS, a free and publicly available directory that includes information about registered domain names, such as the name and contact information of the domain owner. In cybersecurity, this information is helpful in assessing a domain's reputation and determining the origin of malicious websites. 
+
+3. Prevalence: This section provides a graph which outlines the historical prevalence of the domain. This can be helpful when you need to determine whether the domain has been accessed previously. Usually, less prevalent domains may indicate a greater threat. 
+
+4. RESOLVED IPS: This insight card provides additional context about the domain, such as the IP address that maps to ```signin.office365x24.com```, which is ```40.100.174.34```. Clicking on this IP will run a new search for the IP address in Chronicle. Insight cards can be helpful in expanding the domain investigation and further investigating an indicator to determine whether there is a broader compromise.
+
+5. SIBLING DOMAINS: This insight card provides additional context about the domain. Sibling domains share a common top or parent domain. For example, here the sibling domain is listed as ```login.office365x24.com```, which shares the same top domain ```office365x24.com``` with the domain you're investigating: ```signin.office365x24.com```.
+
+6. ET INTELLIGENCE REP LIST: This insight card includes additional context on the domain. It provides threat intelligence information, such as other known threats related to the domains using ProofPoint's Emerging Threats (ET) Intelligence Rep List.
+
+7. Click TIMELINE. This tab provides information about the events and interactions made with this domain. Click EXPAND ALL to reveal the details about the HTTP requests made including ```GET``` and ```POST``` requests.  A GET request retrieves data from a server while a POST request submits data to a server.
+
+8. Click ASSETS. This tab provides a list of the assets that have accessed the domain.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## Step 4: Investigate the threat intelligence data
+
+Now that you've retrieved results for the domain name, the next step is to determine whether the domain is malicious. Chronicle provides quick access to threat intelligence data from the search results that you can use to help your investigation. Follow these steps to analyze the threat intelligence data and use your incident handler's journal to record interesting data:
+
+1. Click on VT CONTEXT to analyze the available VirusTotal information about this domain. There is no VirusTotal information about this domain. To exit the VT CONTEXT window, click the X.
+
+2. By Top Private Domain, click ```office365x24.com``` to access the domain view for ```office365x24.com```. Click VT CONTEXT to assess the VirusTotal information about this domain. In the pop up, you can observe that one vendor has flagged this domain as malicious. Exit the VT CONTEXT window. Click the back button in your browser to go back to the domain view for the ```signin.office365x24.com``` search.
+
+3. Click on the ET INTELLIGENCE REP LIST insight card to expand it, if needed. Take note of the category.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## Step 5: Investigate the affected assets and events
+
+Information about the events and assets relating to the domain are separated into the two tabs: TIMELINE and ASSETS. TIMELINE shows the timeline of events that includes when each asset accessed the domain. ASSETS list hostnames, IP addresses, MAC addresses, or devices that have accessed the domain. 
+
+Investigate the affected assets and events by exploring the tabs:
+
+1. ASSETS: There are several different assets that have accessed the domain, along with the date and time of access. Using your incident handler's journal, record the name and number of assets that have accessed the domain. 
+
+2. TIMELINE: Click EXPAND ALL to reveal the details about the HTTP requests made, including ```GET``` and ```POST``` requests. The ```POST``` information is especially useful because it means that data was sent to the domain. It also suggests a possible successful phish. Using your incident handler's journal, take note of the ```POST``` requests to the ```/login.php``` page. For more details about the connections, open the raw log viewer by clicking the open icon.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## Step 6: Investigate the resolved IP address
+
+So far, you have collected information about the domain's reputation using threat intelligence, and you've identified the assets and events associated with the domain. Based on this information, it's clear that this domain is suspicious and most likely malicious. But before you can confirm that it is malicious, there's one last thing to investigate.
+
+Attackers sometimes reuse infrastructure for multiple attacks. In these cases, multiple domain names resolve to the same IP address.
+
+Investigate the IP address found under the RESOLVED IPS insight card to identify if the ```signin.office365x24.com``` domain uses another domain. Follow these steps: 
+
+1. Under RESOLVED IPS, click the IP address ```40.100.174.34```.
+
+2. Evaluate the search results for this IP address and use your incident handler's journal to take note of the following:
+
+  a. TIMELINE: Take note of the additional ```POST``` request. A new ```POST``` suggests that an asset may have been phished.
+
+  b. ASSETS: Take note of the additional affected assets.
+
+  c. DOMAINS: Take note of the additional domains associated with this IP address.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## Step 7: Answer questions about the domain investigation
+
+1. According to available ET Intelligence Rep list, how is ```signin.office365x24.com```
+
+   _Drop site for logs or stolen credentials_
+
+2. Which assets accessed the ```signin.office365x24.com``` domain? Select three answers
+
+   _```roger-spence-pc```_
+
+   _```coral-alvarez-pc```_
+
+   _```emil-palmer-pc```_
+
+3. Which IP address does the ```signin.office365x24.com``` domain resolve to?
+
+   _```40.100.174.34```_
+
+4. How many ```POST``` requests were made to the ```signin.office365x24.com``` domain?
+
+  _6_
+
+5. Some ```POST``` requests were made to ```signin.office365x24.com```. What is the target URL of the web page that the ```POST``` requests were made to?
+
+   _```http://signin.office364x24.com/login.php```_
+
+6. Which domains does the IP address ```40.100.174.34``` resolve to? Select two answers?
+
+   _```signin.accounts-google.com```_
+
+   _```signin.office365x24.com```_
+
+Please refer to [Tafel Incident handler's journal](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Incident_Handler_Journal/Tafel_Incident_handler's_journal.pdf)
