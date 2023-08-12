@@ -1,2 +1,3 @@
-# Cybersecurity-Professional-Statement
+# Cybersecurity Portfolio
+
 As a dedicated and adaptable cybersecurity professional, I thrive on continuous learning and development. My strengths lie in conducting comprehensive risk assessments, applying analytical thinking, and demonstrating meticulous attention to detail. With a core emphasis on integrity and collaboration, I recognize the criticality of safeguarding sensitive information. What truly fulfills me is the opportunity to protect customers' valuable data, ensuring their privacy, trust, and peace of mind. By aligning with organizations' security goals and objectives, I am committed to securing their systems and shielding customers from evolving threats, making a tangible impact in the realm of cybersecurity.
