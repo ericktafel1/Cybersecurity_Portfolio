@@ -10,7 +10,7 @@ Note: This scenario involves investigating and updating the same file permission
 
 ## Step 1: Access the template
 
-Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/Linux_File_Permissions/Supporting_Documents)
+Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/5_Linux_File_Permissions/Supporting_Documents)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ In the Project description section, give a general overview of the scenario and 
 
 In the Summary section, provide a short summary of the previous tasks and connect them to the scenario. Write approximately two to four sentences.
 
-Please refer to [Tafel File permissions in Linux](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Linux_File_Permissions/Tafel_File_permissions_in_Linux.pdf)
+Please refer to [Tafel File permissions in Linux](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/5_Linux_File_Permissions/Tafel_File_permissions_in_Linux.pdf)
