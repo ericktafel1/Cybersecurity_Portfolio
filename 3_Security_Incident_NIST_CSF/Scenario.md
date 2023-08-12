@@ -25,7 +25,7 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 
 ## Step 1: Access the incident report analysis template
 
-Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/Security_Incident_NIST_CSF/Supporting_Documents)
+Please refer to [Supporting Documents](https://github.com/ericktafel1/Cybersecurity_Portfolio/tree/main/3_Security_Incident_NIST_CSF/Supporting_Documents)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ Consider the following questions:
 
 Write your response in the “recover” portion of the worksheet.
 
-Please refer to [Tafel Incident report analysis ICMP flood DDoS](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/Security_Incident_NIST_CSF/Tafel_Incident_report_analysis%20_ICMP_flood_DDoS.pdf)
+Please refer to [Tafel Incident report analysis ICMP flood DDoS](https://github.com/ericktafel1/Cybersecurity_Portfolio/blob/main/3_Security_Incident_NIST_CSF/Tafel_Incident_report_analysis%20_ICMP_flood_DDoS.pdf)
